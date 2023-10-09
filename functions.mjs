@@ -1,6 +1,7 @@
 import fs from "fs";
 
 import surveys from "./data/surveys.mjs";
+import individualTags from "./data/individualTags.mjs";
 
 function answers(surveys, meanings) {
   const newSurveys = surveys
@@ -98,13 +99,25 @@ function meaningTags(tags) {
   return meanings;
 }
 
-const content = "actorsTags(surveys)";
-const nombreArchivo = "individualTags.mjs";
-const contenidoArchivo = JSON.stringify(content);
+function actorsMeanings(individualTags) {
+  const meanings = individualTags.map(({ meaning, name }) => {
+    return { id: name, meaning };
+  });
 
-fs.writeFile(nombreArchivo, contenidoArchivo, (error) => {
-  if (error) {
-    console.error("Error al escribir en el archivo:", error);
-    return;
-  }
-});
+  return meanings;
+}
+
+function createFile(toRun, data, name) {
+  const content = toRun(data);
+  const nombreArchivo = `${name}.mjs`;
+  const contenidoArchivo = JSON.stringify(content);
+
+  fs.writeFile(nombreArchivo, contenidoArchivo, (error) => {
+    if (error) {
+      console.error("Error al escribir en el archivo:", error);
+      return;
+    }
+  });
+}
+
+createFile(actorsMeanings, individualTags, "actorsMeaning");
