@@ -1,4 +1,4 @@
-[
+const individualTags = [
   {
     tags: [
       "capacidad académica",
@@ -11,7 +11,7 @@
       "El cuidador considera que acompaña más al estudiante",
       "El cuidador considera que actividades de autosuperación para el cuidador permitiria acompañar académicamente al estudiante",
       "El cuidador considera que conocer el estilo de aprendizaje del estudiante es una acción efectiva para el aprendizaje",
-      "El cuidador considera que el acompañamiento académico permite que el estudiante aprenda más y mejor",
+      "El cuidador considera que el acompañamiento escolar permite que el estudiante aprenda más y mejor",
       "El cuidador considera que el cruce de horarios por el trabajo, la falta o el orden en el tiempo dificultó su acompañamiento",
       "El cuidador considera que el internet permitirá involucrarse activamente en la educación del estudiante",
       "El cuidador considera que está más motivado para acompañar academicamente al estudiante",
@@ -24,17 +24,17 @@
       "El cuidador considera que las rutinas de estudio les permiten tener claros los horarios y responsabilidades académicas a desarrollar",
       "El cuidador considera que su falta de formación académica le ha impedido involucrarse más en la educación del estudiante",
       "El cuidador cree que los audios y los videos informativos fortalecerían las rutinas de estudios",
-      "El cuidador cree que los juegos y nuevas dinámicas les permitirían el acompañamiento académico que realiza con el estudiante",
-      "El cuidador cree que un compartir permitiría el acompañamiento académico que realiza con el estudiante",
-      "El cuidador espera que el acompañamiento académico le permita al estudiante mejorar académicamente",
-      "El cuidador espera que el acompañamiento académico le permita al estudiante salir adelante",
+      "El cuidador cree que los juegos y nuevas dinámicas les permitirían el acompañamiento escolar que realiza con el estudiante",
+      "El cuidador cree que un compartir permitiría el acompañamiento escolar que realiza con el estudiante",
+      "El cuidador espera que el acompañamiento escolar le permita al estudiante mejorar académicamente",
+      "El cuidador espera que el acompañamiento escolar le permita al estudiante salir adelante",
       "El cuidador se percibe con un rol de facilitador de conocimiento",
     ],
     tagged: {
       "conciencia de roles": [
         "El cuidador considera que actividades de autosuperación para el cuidador permitiria acompañar académicamente al estudiante",
-        "El cuidador considera que el acompañamiento académico permite que el estudiante aprenda más y mejor",
-        "El cuidador considera que el acompañamiento académico permite que el estudiante aprenda más y mejor",
+        "El cuidador considera que el acompañamiento escolar permite que el estudiante aprenda más y mejor",
+        "El cuidador considera que el acompañamiento escolar permite que el estudiante aprenda más y mejor",
         "El cuidador considera que explicarle y permitir que el estudiante resuelva las tareas por sí mismo es una acción efectiva para apoyar el aprendizaje",
         "El cuidador considera que la interacción con los demás cuidadores genera aprendizaje colaborativo",
         "El cuidador se percibe con un rol de facilitador de conocimiento",
@@ -42,9 +42,9 @@
       "capacidad académica": [
         "El cuidador considera que la intervención permite que el estudiante tenga mejores calificaciones",
         "El cuidador considera que su falta de formación académica le ha impedido involucrarse más en la educación del estudiante",
-        "El cuidador espera que el acompañamiento académico le permita al estudiante mejorar académicamente",
-        "El cuidador espera que el acompañamiento académico le permita al estudiante mejorar académicamente",
-        "El cuidador espera que el acompañamiento académico le permita al estudiante salir adelante",
+        "El cuidador espera que el acompañamiento escolar le permita al estudiante mejorar académicamente",
+        "El cuidador espera que el acompañamiento escolar le permita al estudiante mejorar académicamente",
+        "El cuidador espera que el acompañamiento escolar le permita al estudiante salir adelante",
       ],
       "habilidades socioemocionales": [
         "El cuidador considera que está más motivado para acompañar academicamente al estudiante",
@@ -62,8 +62,8 @@
         "El cuidador considera que el internet permitirá involucrarse activamente en la educación del estudiante",
         "El cuidador considera que la falta de internet dificulta la participación en proyectos de intervención",
         "El cuidador cree que los audios y los videos informativos fortalecerían las rutinas de estudios",
-        "El cuidador cree que los juegos y nuevas dinámicas les permitirían el acompañamiento académico que realiza con el estudiante",
-        "El cuidador cree que un compartir permitiría el acompañamiento académico que realiza con el estudiante",
+        "El cuidador cree que los juegos y nuevas dinámicas les permitirían el acompañamiento escolar que realiza con el estudiante",
+        "El cuidador cree que un compartir permitiría el acompañamiento escolar que realiza con el estudiante",
       ],
     },
     name: "cuidador_1",
@@ -72,19 +72,19 @@
     totalAnswers: 21,
     meaning: {
       "conciencia de roles":
-        "El cuidador tiene una buena comprensión de su rol como facilitador de conocimiento. Reconoce la importancia del acompañamiento académico para el aprendizaje del estudiante, y cree que su participación es esencial para que el estudiante tenga éxito.",
+        "El cuidador tiene una buena comprensión de su rol como facilitador de conocimiento. Reconoce la importancia del acompañamiento escolar para el aprendizaje del estudiante, y cree que su participación es esencial para que el estudiante tenga éxito.",
 
       "capacidad académica":
-        "El cuidador reconoce que su falta de formación académica puede ser una limitación para su participación en el acompañamiento académico. Sin embargo, tiene la esperanza de que el programa de intervención le ayude a mejorar sus habilidades y conocimientos en esta área.",
+        "El cuidador reconoce que su falta de formación académica puede ser una limitación para su participación en el acompañamiento escolar. Sin embargo, tiene la esperanza de que el programa de intervención le ayude a mejorar sus habilidades y conocimientos en esta área.",
 
       "habilidades socioemocionales":
-        "El acompañamiento académico ha tenido un impacto positivo en las habilidades socioemocionales del cuidador. Se siente más motivado y seguro, y la interacción con otros cuidadores le genera sensaciones positivas.",
+        "El acompañamiento escolar ha tenido un impacto positivo en las habilidades socioemocionales del cuidador. Se siente más motivado y seguro, y la interacción con otros cuidadores le genera sensaciones positivas.",
 
       "compromiso académico":
-        "El cuidador está comprometido con el acompañamiento académico del estudiante. Reconoce la importancia de conocer el estilo de aprendizaje del estudiante, y está dispuesto a dedicar tiempo y esfuerzo para apoyar su aprendizaje.",
+        "El cuidador está comprometido con el acompañamiento escolar del estudiante. Reconoce la importancia de conocer el estilo de aprendizaje del estudiante, y está dispuesto a dedicar tiempo y esfuerzo para apoyar su aprendizaje.",
 
       "recursos educativos":
-        "El cuidador considera que el internet es un recurso valioso para el acompañamiento académico. También cree que los audios y videos informativos, los juegos y nuevas dinámicas, y los espacios de compartir pueden ser útiles para fortalecer las rutinas de estudio y el acompañamiento académico.",
+        "El cuidador considera que el internet es un recurso valioso para el acompañamiento escolar. También cree que los audios y videos informativos, los juegos y nuevas dinámicas, y los espacios de compartir pueden ser útiles para fortalecer las rutinas de estudio y el acompañamiento escolar.",
     },
   },
   {
@@ -99,11 +99,11 @@
       "El cuidador considera el estudiante tendrá más deseo, motivación o interés de estudiar gracias al proyecto de intervención",
       "El cuidador considera necesario un informe rutinario sobre la actualidad académica del estudiante",
       "El cuidador considera que al estudiante ya no le da pena hacer preguntas a la docente",
-      "El cuidador considera que el acompañamiento académico permite que el estudiante aprenda más y mejor",
-      "El cuidador considera que el acompañamiento académico permite que el estudiante se sienta acompañado",
+      "El cuidador considera que el acompañamiento escolar permite que el estudiante aprenda más y mejor",
+      "El cuidador considera que el acompañamiento escolar permite que el estudiante se sienta acompañado",
       "El cuidador considera que el cruce de horarios por el trabajo, la falta o el orden en el tiempo dificultó su acompañamiento",
       "El cuidador considera que el estudiante está más despierto académicamente",
-      "El cuidador considera que el estudiante le va a solicitar más acompañamiento académico",
+      "El cuidador considera que el estudiante le va a solicitar más acompañamiento escolar",
       "El cuidador considera que el internet permitirá involucrarse activamente en la educación del estudiante",
       "El cuidador considera que está más pendiente de la educación del estudiante",
       "El cuidador considera que está más pendiente de las tareas del estudiante",
@@ -118,24 +118,24 @@
       "El cuidador considera que repetir temas ya estudiados junto con el estudiante le ha impedido involucrarse más en la educación del estudiante",
       "El cuidador considera que se generó un clima de confianza entre el cuidador y el estudiante",
       "El cuidador cree que los audios y los videos informativos fortalecerían las rutinas de estudios",
-      "El cuidador cree que los juegos y nuevas dinámicas les permitirían el acompañamiento académico que realiza con el estudiante",
-      "El cuidador espera estar más pendiente del acompañamiento académico en el estudiante",
-      "El cuidador espera que el acompañamiento académico le permita al estudiante mejorar académicamente",
-      "El cuidador se percibe con un rol de acompañamiento académico constante y consciente",
+      "El cuidador cree que los juegos y nuevas dinámicas les permitirían el acompañamiento escolar que realiza con el estudiante",
+      "El cuidador espera estar más pendiente del acompañamiento escolar en el estudiante",
+      "El cuidador espera que el acompañamiento escolar le permita al estudiante mejorar académicamente",
+      "El cuidador se percibe con un rol de acompañamiento escolar constante y consciente",
     ],
     tagged: {
       "habilidades socioemocionales": [
         "El cuidador considera que al estudiante ya no le da pena hacer preguntas a la docente",
-        "El cuidador considera que el acompañamiento académico permite que el estudiante se sienta acompañado",
+        "El cuidador considera que el acompañamiento escolar permite que el estudiante se sienta acompañado",
         "El cuidador considera que la interacción con  los demás cuidadores genera sensaciones positivas",
         "El cuidador considera que se generó un clima de confianza entre el cuidador y el estudiante",
       ],
       "conciencia de roles": [
-        "El cuidador considera que el acompañamiento académico permite que el estudiante aprenda más y mejor",
-        "El cuidador considera que el estudiante le va a solicitar más acompañamiento académico",
+        "El cuidador considera que el acompañamiento escolar permite que el estudiante aprenda más y mejor",
+        "El cuidador considera que el estudiante le va a solicitar más acompañamiento escolar",
         "El cuidador considera que la interacción con los demás cuidadores genera aprendizaje colaborativo",
         "El cuidador considera que leer y explicar al estudiante lo que debe aprender es una acción efectiva para el aprendizaje",
-        "El cuidador se percibe con un rol de acompañamiento académico constante y consciente",
+        "El cuidador se percibe con un rol de acompañamiento escolar constante y consciente",
       ],
       "compromiso académico": [
         "El cuidador considera el estudiante tendrá más deseo, motivación o interés de estudiar gracias al proyecto de intervención",
@@ -147,18 +147,18 @@
         "El cuidador considera que la falta de costumbre en el estudiante ha impedido el establecimiento de rutinas de estudio",
         "El cuidador considera que las rutinas de estudio desarrollan responsabilidad en el estudiante",
         "El cuidador considera que las rutinas de estudio permitirán que el estudiante aprenderá más fácilmente",
-        "El cuidador espera estar más pendiente del acompañamiento académico en el estudiante",
+        "El cuidador espera estar más pendiente del acompañamiento escolar en el estudiante",
       ],
       "capacidad académica": [
         "El cuidador considera que la falta de entendimiento por parte del estudiante le ha impedido involucrarse más en la educación del estudiante",
         "El cuidador considera que repetir temas ya estudiados junto con el estudiante le ha impedido involucrarse más en la educación del estudiante",
-        "El cuidador espera que el acompañamiento académico le permita al estudiante mejorar académicamente",
+        "El cuidador espera que el acompañamiento escolar le permita al estudiante mejorar académicamente",
       ],
       "recursos educativos": [
         "El cuidador considera necesario un informe rutinario sobre la actualidad académica del estudiante",
         "El cuidador considera que el internet permitirá involucrarse activamente en la educación del estudiante",
         "El cuidador cree que los audios y los videos informativos fortalecerían las rutinas de estudios",
-        "El cuidador cree que los juegos y nuevas dinámicas les permitirían el acompañamiento académico que realiza con el estudiante",
+        "El cuidador cree que los juegos y nuevas dinámicas les permitirían el acompañamiento escolar que realiza con el estudiante",
       ],
     },
     name: "cuidador_2",
@@ -167,15 +167,15 @@
     totalAnswers: 26,
     meaning: {
       "habilidades socioemocionales":
-        "El cuidador considera que el acompañamiento académico ha tenido un impacto positivo en las habilidades socioemocionales del estudiante. El estudiante se siente más seguro y confiado, y la interacción con otros cuidadores le genera sensaciones positivas.",
+        "El cuidador considera que el acompañamiento escolar ha tenido un impacto positivo en las habilidades socioemocionales del estudiante. El estudiante se siente más seguro y confiado, y la interacción con otros cuidadores le genera sensaciones positivas.",
       "conciencia de roles":
-        "El cuidador considera que el acompañamiento académico es importante para el aprendizaje del estudiante. El cuidador se percibe como un facilitador de conocimiento y aprendizaje colaborativo.",
+        "El cuidador considera que el acompañamiento escolar es importante para el aprendizaje del estudiante. El cuidador se percibe como un facilitador de conocimiento y aprendizaje colaborativo.",
       "compromiso académico":
-        "El cuidador está comprometido con el acompañamiento académico del estudiante. El cuidador está más pendiente de la educación del estudiante, y espera estar más pendiente del acompañamiento académico en el futuro.",
+        "El cuidador está comprometido con el acompañamiento escolar del estudiante. El cuidador está más pendiente de la educación del estudiante, y espera estar más pendiente del acompañamiento escolar en el futuro.",
       "capacidad académica":
-        "El cuidador reconoce que la falta de entendimiento por parte del estudiante ha sido una limitación para su participación en el acompañamiento académico. El cuidador espera que el acompañamiento académico le permita al estudiante mejorar académicamente.",
+        "El cuidador reconoce que la falta de entendimiento por parte del estudiante ha sido una limitación para su participación en el acompañamiento escolar. El cuidador espera que el acompañamiento escolar le permita al estudiante mejorar académicamente.",
       "recursos educativos":
-        "El cuidador considera que el internet, los audios y videos informativos, los juegos y nuevas dinámicas pueden ser útiles para fortalecer el acompañamiento académico.",
+        "El cuidador considera que el internet, los audios y videos informativos, los juegos y nuevas dinámicas pueden ser útiles para fortalecer el acompañamiento escolar.",
     },
   },
   {
@@ -202,16 +202,16 @@
       "El cuidador considera que las rutinas de estudio les permiten tener claros los horarios y responsabilidades académicas a desarrollar",
       "El cuidador considera que los libros le permitirán involucrarse activamente en la educación del estudiante",
       "El cuidador considera que su rol le permite al estudiante sentirse apoyados y con confianza",
-      "El cuidador cree que los juegos y nuevas dinámicas les permitirían el acompañamiento académico que realiza con el estudiante",
-      "El cuidador espera que el acompañamiento académico desarrolle la pérdida del miedo en el estudiante",
-      "El cuidador espera que el acompañamiento académico genere sensación de apoyo en el estudiante",
-      "El cuidador espera que el acompañamiento académico le permita al estudiante mejorar académicamente",
-      "El cuidador espera que el acompañamiento académico potencie la interacción social por parte del estudiante",
-      "El cuidador reconoce la importancia del acompañamiento académico",
+      "El cuidador cree que los juegos y nuevas dinámicas les permitirían el acompañamiento escolar que realiza con el estudiante",
+      "El cuidador espera que el acompañamiento escolar desarrolle la pérdida del miedo en el estudiante",
+      "El cuidador espera que el acompañamiento escolar genere sensación de apoyo en el estudiante",
+      "El cuidador espera que el acompañamiento escolar le permita al estudiante mejorar académicamente",
+      "El cuidador espera que el acompañamiento escolar potencie la interacción social por parte del estudiante",
+      "El cuidador reconoce la importancia del acompañamiento escolar",
     ],
     tagged: {
       "capacidad académica": [
-        "El cuidador espera que el acompañamiento académico le permita al estudiante mejorar académicamente",
+        "El cuidador espera que el acompañamiento escolar le permita al estudiante mejorar académicamente",
       ],
       "compromiso académico": [
         "El cuidador considera que acompaña más al estudiante",
@@ -227,20 +227,20 @@
         "El cuidador considera que la interacción con los demás cuidadores genera aprendizaje colaborativo",
         "El cuidador considera que la percepción del estudiante hacia él como actora ajena al conocimiento ha impedido establecer de rutinas de estudio",
         "El cuidador considera que su rol le permite al estudiante sentirse apoyados y con confianza",
-        "El cuidador reconoce la importancia del acompañamiento académico",
+        "El cuidador reconoce la importancia del acompañamiento escolar",
       ],
       "habilidades socioemocionales": [
         "El cuidador considera que el estudiante va a sentirse seguro y respaldado al saber que tiene apoyo",
         "El cuidador considera que la interacción con  los demás cuidadores genera sensaciones positivas",
-        "El cuidador espera que el acompañamiento académico desarrolle la pérdida del miedo en el estudiante",
-        "El cuidador espera que el acompañamiento académico genere sensación de apoyo en el estudiante",
-        "El cuidador espera que el acompañamiento académico potencie la interacción social por parte del estudiante",
+        "El cuidador espera que el acompañamiento escolar desarrolle la pérdida del miedo en el estudiante",
+        "El cuidador espera que el acompañamiento escolar genere sensación de apoyo en el estudiante",
+        "El cuidador espera que el acompañamiento escolar potencie la interacción social por parte del estudiante",
       ],
       "recursos educativos": [
         "El cuidador considera necesario un informe rutinario sobre la actualidad académica del estudiante",
         "El cuidador considera que el internet permitirá involucrarse activamente en la educación del estudiante",
         "El cuidador considera que los libros le permitirán involucrarse activamente en la educación del estudiante",
-        "El cuidador cree que los juegos y nuevas dinámicas les permitirían el acompañamiento académico que realiza con el estudiante",
+        "El cuidador cree que los juegos y nuevas dinámicas les permitirían el acompañamiento escolar que realiza con el estudiante",
       ],
     },
     name: "cuidador_3",
@@ -249,15 +249,15 @@
     totalAnswers: 21,
     meaning: {
       "capacidad académica":
-        "El cuidador espera que el acompañamiento académico le permita al estudiante mejorar académicamente.",
+        "El cuidador espera que el acompañamiento escolar le permita al estudiante mejorar académicamente.",
       "compromiso académico":
-        "El cuidador está comprometido con el acompañamiento académico del estudiante, pero enfrenta desafíos, como el cruce de horarios por el trabajo y la falta de costumbre por parte del estudiante.",
+        "El cuidador está comprometido con el acompañamiento escolar del estudiante, pero enfrenta desafíos, como el cruce de horarios por el trabajo y la falta de costumbre por parte del estudiante.",
       "conciencia de roles":
-        "El cuidador reconoce la importancia del acompañamiento académico y considera que su rol le permite al estudiante sentirse apoyado y con confianza.",
+        "El cuidador reconoce la importancia del acompañamiento escolar y considera que su rol le permite al estudiante sentirse apoyado y con confianza.",
       "habilidades socioemocionales":
-        "El cuidador espera que el acompañamiento académico ayude al estudiante a desarrollar habilidades socioemocionales, como la seguridad y el apoyo.",
+        "El cuidador espera que el acompañamiento escolar ayude al estudiante a desarrollar habilidades socioemocionales, como la seguridad y el apoyo.",
       "recursos educativos":
-        "El cuidador considera que el internet, los libros y los juegos pueden ser útiles para fortalecer el acompañamiento académico.",
+        "El cuidador considera que el internet, los libros y los juegos pueden ser útiles para fortalecer el acompañamiento escolar.",
     },
   },
   {
@@ -271,8 +271,8 @@
     answers: [
       "El cuidador considera el estudiante tendrá más deseo, motivación o interés de estudiar gracias al proyecto de intervención",
       "El cuidador considera necesario un informe rutinario sobre la actualidad académica del estudiante",
-      "El cuidador considera que el acompañamiento académico le permite al cuidador conocer al niño y a la docente",
-      "El cuidador considera que el acompañamiento académico permite que el cuidador y el estudiante aprendan",
+      "El cuidador considera que el acompañamiento escolar le permite al cuidador conocer al niño y a la docente",
+      "El cuidador considera que el acompañamiento escolar permite que el cuidador y el estudiante aprendan",
       "El cuidador considera que el estudiante sepa más que él le ha impedido involucrarse más en su educación",
       "El cuidador considera que el internet permitirá involucrarse activamente en la educación del estudiante",
       "El cuidador considera que estar presente para que el estudiante se sienta apoyado es una acción efectiva para el aprendizaje",
@@ -286,28 +286,28 @@
       "El cuidador considera que revisar las tareas que debe realizar el estudiante es una acción efectiva para el aprendizaje",
       "El cuidador considera que su rol le permite al estudiante sentirse apoyados y con confianza",
       "El cuidador cree que las actividades lúdicas e innovadoras apoyan en el aprendizaje del estudiante",
-      "El cuidador espera que el acompañamiento académico desarrolle la pérdida del miedo en el estudiante",
-      "El cuidador espera que el acompañamiento académico fomente un aprendizaje constante entre el estudiante y el cuidador",
-      "El cuidador espera que el acompañamiento académico genere sensación de apoyo en el estudiante",
-      "El cuidador espera que el acompañamiento académico potencie la interacción social por parte del estudiante",
-      "El cuidador espera que el acompañamiento académico sea algo permanente en la educación del estudiante",
-      "El cuidador se percibe con un rol de acompañamiento académico constante y consciente",
+      "El cuidador espera que el acompañamiento escolar desarrolle la pérdida del miedo en el estudiante",
+      "El cuidador espera que el acompañamiento escolar fomente un aprendizaje constante entre el estudiante y el cuidador",
+      "El cuidador espera que el acompañamiento escolar genere sensación de apoyo en el estudiante",
+      "El cuidador espera que el acompañamiento escolar potencie la interacción social por parte del estudiante",
+      "El cuidador espera que el acompañamiento escolar sea algo permanente en la educación del estudiante",
+      "El cuidador se percibe con un rol de acompañamiento escolar constante y consciente",
     ],
     tagged: {
       "conciencia de roles": [
-        "El cuidador considera que el acompañamiento académico le permite al cuidador conocer al niño y a la docente",
-        "El cuidador considera que el acompañamiento académico permite que el cuidador y el estudiante aprendan",
-        "El cuidador considera que el acompañamiento académico permite que el cuidador y el estudiante aprendan",
+        "El cuidador considera que el acompañamiento escolar le permite al cuidador conocer al niño y a la docente",
+        "El cuidador considera que el acompañamiento escolar permite que el cuidador y el estudiante aprendan",
+        "El cuidador considera que el acompañamiento escolar permite que el cuidador y el estudiante aprendan",
         "El cuidador considera que estar presente para que el estudiante se sienta apoyado es una acción efectiva para el aprendizaje",
         "El cuidador considera que prestarle atención al estudiante mientras estudia es una acción efectiva para el aprendizaje",
         "El cuidador considera que su rol le permite al estudiante sentirse apoyados y con confianza",
-        "El cuidador espera que el acompañamiento académico fomente un aprendizaje constante entre el estudiante y el cuidador",
-        "El cuidador se percibe con un rol de acompañamiento académico constante y consciente",
+        "El cuidador espera que el acompañamiento escolar fomente un aprendizaje constante entre el estudiante y el cuidador",
+        "El cuidador se percibe con un rol de acompañamiento escolar constante y consciente",
       ],
       "capacidad académica": [
         "El cuidador considera que el estudiante sepa más que él le ha impedido involucrarse más en su educación",
         "El cuidador considera que ha olvidado cosas, y esto le ha impedido involucrarse más en la educación del estudiante",
-        "El cuidador espera que el acompañamiento académico sea algo permanente en la educación del estudiante",
+        "El cuidador espera que el acompañamiento escolar sea algo permanente en la educación del estudiante",
       ],
       "compromiso académico": [
         "El cuidador considera el estudiante tendrá más deseo, motivación o interés de estudiar gracias al proyecto de intervención",
@@ -317,9 +317,9 @@
       ],
       "habilidades socioemocionales": [
         "El cuidador considera que la interacción con  los demás cuidadores genera sensaciones positivas",
-        "El cuidador espera que el acompañamiento académico desarrolle la pérdida del miedo en el estudiante",
-        "El cuidador espera que el acompañamiento académico genere sensación de apoyo en el estudiante",
-        "El cuidador espera que el acompañamiento académico potencie la interacción social por parte del estudiante",
+        "El cuidador espera que el acompañamiento escolar desarrolle la pérdida del miedo en el estudiante",
+        "El cuidador espera que el acompañamiento escolar genere sensación de apoyo en el estudiante",
+        "El cuidador espera que el acompañamiento escolar potencie la interacción social por parte del estudiante",
       ],
       "recursos educativos": [
         "El cuidador considera necesario un informe rutinario sobre la actualidad académica del estudiante",
@@ -335,15 +335,15 @@
     totalAnswers: 23,
     meaning: {
       "capacidad académica":
-        "El cuidador espera que el acompañamiento académico le permita al estudiante mejorar académicamente, pero reconoce que la falta de entendimiento por parte del estudiante ha sido una limitación para su participación en el acompañamiento académico.",
+        "El cuidador espera que el acompañamiento escolar le permita al estudiante mejorar académicamente, pero reconoce que la falta de entendimiento por parte del estudiante ha sido una limitación para su participación en el acompañamiento escolar.",
       "compromiso académico":
-        "El cuidador está comprometido con el acompañamiento académico del estudiante, pero enfrenta desafíos, como el cruce de horarios por el trabajo y la falta de costumbre por parte del estudiante.",
+        "El cuidador está comprometido con el acompañamiento escolar del estudiante, pero enfrenta desafíos, como el cruce de horarios por el trabajo y la falta de costumbre por parte del estudiante.",
       "conciencia de roles":
-        "El cuidador reconoce la importancia del acompañamiento académico y considera que su rol le permite al estudiante sentirse apoyado y con confianza.",
+        "El cuidador reconoce la importancia del acompañamiento escolar y considera que su rol le permite al estudiante sentirse apoyado y con confianza.",
       "habilidades socioemocionales":
-        "El cuidador espera que el acompañamiento académico ayude al estudiante a desarrollar habilidades socioemocionales, como la seguridad y el apoyo.",
+        "El cuidador espera que el acompañamiento escolar ayude al estudiante a desarrollar habilidades socioemocionales, como la seguridad y el apoyo.",
       "recursos educativos":
-        "El cuidador considera que el internet, los libros y los juegos pueden ser útiles para fortalecer el acompañamiento académico.",
+        "El cuidador considera que el internet, los libros y los juegos pueden ser útiles para fortalecer el acompañamiento escolar.",
     },
   },
   {
@@ -358,29 +358,29 @@
       "El cuidador considera las rutinas de estudio son importantes para evitar la curva del olvido",
       "El cuidador considera necesario un informe rutinario sobre la actualidad académica del estudiante",
       "El cuidador considera que conocer el estilo de aprendizaje del estudiante es una acción efectiva para el aprendizaje",
-      "El cuidador considera que el acompañamiento académico permite que el cuidador y el estudiante aprendan",
-      "El cuidador considera que el acompañamiento académico permite saber cómo los docentes tratan al estudiante",
+      "El cuidador considera que el acompañamiento escolar permite que el cuidador y el estudiante aprendan",
+      "El cuidador considera que el acompañamiento escolar permite saber cómo los docentes tratan al estudiante",
       "El cuidador considera que el cruce de horarios por el trabajo, la falta o el orden en el tiempo dificultó su acompañamiento",
       "El cuidador considera que el internet permitirá involucrarse activamente en la educación del estudiante",
       "El cuidador considera que la falta de costumbre en el estudiante ha impedido el establecimiento de rutinas de estudio",
       "El cuidador considera que la falta de disposición y falta de interés dificulta la participación",
       "El cuidador considera que la interacción con  los demás cuidadores genera sensaciones positivas",
       "El cuidador cree que los audios y los videos informativos fortalecerían las rutinas de estudios",
-      "El cuidador cree que los juegos y nuevas dinámicas les permitirían el acompañamiento académico que realiza con el estudiante",
-      "El cuidador espera que el acompañamiento académico le permita al estudiante mejorar académicamente",
-      "El cuidador reconoce los resultados del acompañamiento académico en el estudiante",
+      "El cuidador cree que los juegos y nuevas dinámicas les permitirían el acompañamiento escolar que realiza con el estudiante",
+      "El cuidador espera que el acompañamiento escolar le permita al estudiante mejorar académicamente",
+      "El cuidador reconoce los resultados del acompañamiento escolar en el estudiante",
       "El cuidador se percibe con un rol de facilitador de conocimiento",
     ],
     tagged: {
       "conciencia de roles": [
         "El cuidador considera las rutinas de estudio son importantes para evitar la curva del olvido",
-        "El cuidador considera que el acompañamiento académico permite que el cuidador y el estudiante aprendan",
-        "El cuidador considera que el acompañamiento académico permite saber cómo los docentes tratan al estudiante",
-        "El cuidador reconoce los resultados del acompañamiento académico en el estudiante",
+        "El cuidador considera que el acompañamiento escolar permite que el cuidador y el estudiante aprendan",
+        "El cuidador considera que el acompañamiento escolar permite saber cómo los docentes tratan al estudiante",
+        "El cuidador reconoce los resultados del acompañamiento escolar en el estudiante",
         "El cuidador se percibe con un rol de facilitador de conocimiento",
       ],
       "capacidad académica": [
-        "El cuidador espera que el acompañamiento académico le permita al estudiante mejorar académicamente",
+        "El cuidador espera que el acompañamiento escolar le permita al estudiante mejorar académicamente",
       ],
       "compromiso académico": [
         "El cuidador considera que conocer el estilo de aprendizaje del estudiante es una acción efectiva para el aprendizaje",
@@ -392,7 +392,7 @@
         "El cuidador considera necesario un informe rutinario sobre la actualidad académica del estudiante",
         "El cuidador considera que el internet permitirá involucrarse activamente en la educación del estudiante",
         "El cuidador cree que los audios y los videos informativos fortalecerían las rutinas de estudios",
-        "El cuidador cree que los juegos y nuevas dinámicas les permitirían el acompañamiento académico que realiza con el estudiante",
+        "El cuidador cree que los juegos y nuevas dinámicas les permitirían el acompañamiento escolar que realiza con el estudiante",
       ],
       "habilidades socioemocionales": [
         "El cuidador considera que la interacción con  los demás cuidadores genera sensaciones positivas",
@@ -404,15 +404,15 @@
     totalAnswers: 15,
     meaning: {
       "capacidad académica":
-        "El cuidador espera que el acompañamiento académico le permita al estudiante mejorar académicamente, pero reconoce que la falta de entendimiento por parte del estudiante ha sido una limitación para su participación en el acompañamiento académico.",
+        "El cuidador espera que el acompañamiento escolar le permita al estudiante mejorar académicamente, pero reconoce que la falta de entendimiento por parte del estudiante ha sido una limitación para su participación en el acompañamiento escolar.",
       "compromiso académico":
-        "El cuidador está comprometido con el acompañamiento académico del estudiante, pero enfrenta desafíos, como el cruce de horarios por el trabajo y la falta de costumbre en el estudiante.",
+        "El cuidador está comprometido con el acompañamiento escolar del estudiante, pero enfrenta desafíos, como el cruce de horarios por el trabajo y la falta de costumbre en el estudiante.",
       "conciencia de roles":
-        "El cuidador reconoce la importancia del acompañamiento académico y considera que su rol le permite al estudiante sentirse apoyado y con confianza.",
+        "El cuidador reconoce la importancia del acompañamiento escolar y considera que su rol le permite al estudiante sentirse apoyado y con confianza.",
       "habilidades socioemocionales":
-        "El cuidador espera que el acompañamiento académico ayude al estudiante a desarrollar habilidades socioemocionales, como la seguridad y el apoyo.",
+        "El cuidador espera que el acompañamiento escolar ayude al estudiante a desarrollar habilidades socioemocionales, como la seguridad y el apoyo.",
       "recursos educativos":
-        "El cuidador considera que el internet, los libros y los juegos pueden ser útiles para fortalecer el acompañamiento académico.",
+        "El cuidador considera que el internet, los libros y los juegos pueden ser útiles para fortalecer el acompañamiento escolar.",
     },
   },
   {
@@ -424,12 +424,12 @@
       "recursos educativos",
     ],
     answers: [
-      "El cuidador aprendió cómo se debe tratar al estudiante cuando está realizando el acompañamiento académico",
+      "El cuidador aprendió cómo se debe tratar al estudiante cuando está realizando el acompañamiento escolar",
       "El cuidador considera necesario un informe rutinario sobre la actualidad académica del estudiante",
       "El cuidador considera que actividades de autosuperación para el cuidador permitiria acompañar académicamente al estudiante",
-      "El cuidador considera que aumentará el acompañamiento académico hacia el estudiante",
+      "El cuidador considera que aumentará el acompañamiento escolar hacia el estudiante",
       "El cuidador considera que conocer el estilo de aprendizaje del estudiante es una acción efectiva para el aprendizaje",
-      "El cuidador considera que el acompañamiento académico permite que el estudiante aprenda más y mejor",
+      "El cuidador considera que el acompañamiento escolar permite que el estudiante aprenda más y mejor",
       "El cuidador considera que el cruce de horarios por el trabajo, la falta o el orden en el tiempo dificultó su acompañamiento",
       "El cuidador considera que la falta de deseo de estudiar por parte del estudiante impidió el establecimiento de rutinas de estudio",
       "El cuidador considera que la interacción con  los demás cuidadores genera sensaciones positivas",
@@ -437,29 +437,29 @@
       "El cuidador considera que las rutinas de estudio son positivas siempre y cuando se evite el agotamiento en el estudiante",
       "El cuidador considera que si le explica al estudiante este aprende más fácil",
       "El cuidador cree que los audios y los videos informativos fortalecerían las rutinas de estudios",
-      "El cuidador espera que el acompañamiento académico sea algo permanente en la educación del estudiante",
+      "El cuidador espera que el acompañamiento escolar sea algo permanente en la educación del estudiante",
       "El cuidador se percibe con un rol de facilitador de conocimiento",
     ],
     tagged: {
       "conciencia de roles": [
-        "El cuidador considera que el acompañamiento académico permite que el estudiante aprenda más y mejor",
+        "El cuidador considera que el acompañamiento escolar permite que el estudiante aprenda más y mejor",
         "El cuidador considera que las rutinas de estudio son positivas siempre y cuando se evite el agotamiento en el estudiante",
         "El cuidador considera que si le explica al estudiante este aprende más fácil",
         "El cuidador se percibe con un rol de facilitador de conocimiento",
       ],
       "compromiso académico": [
         "El cuidador considera que actividades de autosuperación para el cuidador permitiria acompañar académicamente al estudiante",
-        "El cuidador considera que aumentará el acompañamiento académico hacia el estudiante",
+        "El cuidador considera que aumentará el acompañamiento escolar hacia el estudiante",
         "El cuidador considera que conocer el estilo de aprendizaje del estudiante es una acción efectiva para el aprendizaje",
         "El cuidador considera que el cruce de horarios por el trabajo, la falta o el orden en el tiempo dificultó su acompañamiento",
         "El cuidador considera que la falta de deseo de estudiar por parte del estudiante impidió el establecimiento de rutinas de estudio",
       ],
       "habilidades socioemocionales": [
-        "El cuidador aprendió cómo se debe tratar al estudiante cuando está realizando el acompañamiento académico",
+        "El cuidador aprendió cómo se debe tratar al estudiante cuando está realizando el acompañamiento escolar",
         "El cuidador considera que la interacción con  los demás cuidadores genera sensaciones positivas",
       ],
       "capacidad académica": [
-        "El cuidador espera que el acompañamiento académico sea algo permanente en la educación del estudiante",
+        "El cuidador espera que el acompañamiento escolar sea algo permanente en la educación del estudiante",
       ],
       "recursos educativos": [
         "El cuidador considera necesario un informe rutinario sobre la actualidad académica del estudiante",
@@ -473,13 +473,13 @@
     totalAnswers: 15,
     meaning: {
       "conciencia de roles":
-        "El cuidador considera que el acompañamiento académico permite que el estudiante aprenda más y mejor, y que las rutinas de estudio son positivas siempre y cuando se evite el agotamiento en el estudiante. También considera que si le explica al estudiante, este aprende más fácil, y se percibe con un rol de facilitador de conocimiento.",
+        "El cuidador considera que el acompañamiento escolar permite que el estudiante aprenda más y mejor, y que las rutinas de estudio son positivas siempre y cuando se evite el agotamiento en el estudiante. También considera que si le explica al estudiante, este aprende más fácil, y se percibe con un rol de facilitador de conocimiento.",
       "compromiso académico":
         "El cuidador considera que actividades de autosuperación para el cuidador permitirían acompañar académicamente al estudiante, y que conocer el estilo de aprendizaje del estudiante es una acción efectiva para el aprendizaje. Sin embargo, el cruce de horarios por el trabajo y la falta de deseo de estudiar por parte del estudiante dificultaron su acompañamiento.",
       "habilidades socioemocionales":
-        "El cuidador aprendió cómo se debe tratar al estudiante cuando está realizando el acompañamiento académico, y considera que la interacción con otros cuidadores genera sensaciones positivas.",
+        "El cuidador aprendió cómo se debe tratar al estudiante cuando está realizando el acompañamiento escolar, y considera que la interacción con otros cuidadores genera sensaciones positivas.",
       "capacidad académica":
-        "El cuidador espera que el acompañamiento académico sea algo permanente en la educación del estudiante.",
+        "El cuidador espera que el acompañamiento escolar sea algo permanente en la educación del estudiante.",
       "recursos educativos":
         "El cuidador considera necesario un informe rutinario sobre la actualidad académica del estudiante, y que las guías de ayuda y los audios y videos informativos fortalecerían las rutinas de estudios.",
     },
@@ -498,7 +498,7 @@
       "El cuidador considera necesario un informe rutinario sobre la actualidad académica del estudiante",
       "El cuidador considera que dejar solo al estudiante lo afecta negativamente",
       "El cuidador considera que dialogar con el estudiante frente al estudio es una acción efectiva para el aprendizaje",
-      "El cuidador considera que el acompañamiento académico permite que el estudiante aprenda más y mejor",
+      "El cuidador considera que el acompañamiento escolar permite que el estudiante aprenda más y mejor",
       "El cuidador considera que el cruce de horarios por el trabajo, la falta o el orden en el tiempo dificultó su acompañamiento",
       "El cuidador considera que el internet permitirá involucrarse activamente en la educación del estudiante",
       "El cuidador considera que la falta de disposición y falta de interés dificulta la participación",
@@ -512,28 +512,28 @@
       "El cuidador considera que su falta de formación académica le ha impedido involucrarse más en la educación del estudiante",
       "El cuidador considera que ver al estudiante como fuente de conocimiento es una acción efectiva para el aprendizaje",
       "El cuidador cree que el internet fortalece las rutinas de estudio",
-      "El cuidador distribuye el acompañamiento académico junto con la madre de acuerdo a su capacidad académica",
-      "El cuidador espera que el acompañamiento académico le permita al estudiante mejorar académicamente",
-      "El cuidador espera que se genere conciencia y conocimiento por parte de los demás cuidadores sobre el acompañamiento académico",
-      "El cuidador le gustaría que se incluyeran actividades para mejorar su acompañamiento académico en el estudiante",
+      "El cuidador distribuye el acompañamiento escolar junto con la madre de acuerdo a su capacidad académica",
+      "El cuidador espera que el acompañamiento escolar le permita al estudiante mejorar académicamente",
+      "El cuidador espera que se genere conciencia y conocimiento por parte de los demás cuidadores sobre el acompañamiento escolar",
+      "El cuidador le gustaría que se incluyeran actividades para mejorar su acompañamiento escolar en el estudiante",
       "El cuidador relaciona el apoyo académico con el aprendizaje del estudiante",
-      "El cuidador se percibe con un rol de acompañamiento académico constante y consciente",
+      "El cuidador se percibe con un rol de acompañamiento escolar constante y consciente",
     ],
     tagged: {
       "conciencia de roles": [
         "El cuidador considera que dejar solo al estudiante lo afecta negativamente",
-        "El cuidador considera que el acompañamiento académico permite que el estudiante aprenda más y mejor",
+        "El cuidador considera que el acompañamiento escolar permite que el estudiante aprenda más y mejor",
         "El cuidador considera que ver al estudiante como fuente de conocimiento es una acción efectiva para el aprendizaje",
-        "El cuidador espera que se genere conciencia y conocimiento por parte de los demás cuidadores sobre el acompañamiento académico",
+        "El cuidador espera que se genere conciencia y conocimiento por parte de los demás cuidadores sobre el acompañamiento escolar",
         "El cuidador relaciona el apoyo académico con el aprendizaje del estudiante",
-        "El cuidador se percibe con un rol de acompañamiento académico constante y consciente",
+        "El cuidador se percibe con un rol de acompañamiento escolar constante y consciente",
       ],
       "capacidad académica": [
         "El cuidador considera el estudiante tendrá proyección de estudiar en instituciones de educación superior",
         "El cuidador considera que la intervención permite que el estudiante tenga mejores calificaciones",
         "El cuidador considera que su falta de conocimiento le ha impedido involucrarse más en la educación del estudiante",
         "El cuidador considera que su falta de formación académica le ha impedido involucrarse más en la educación del estudiante",
-        "El cuidador espera que el acompañamiento académico le permita al estudiante mejorar académicamente",
+        "El cuidador espera que el acompañamiento escolar le permita al estudiante mejorar académicamente",
       ],
       "compromiso académico": [
         "El cuidador considera el estudiante tendrá más deseo, motivación o interés de estudiar gracias al proyecto de intervención",
@@ -543,7 +543,7 @@
         "El cuidador considera que las rutinas de estudio les permiten tener claros los horarios y responsabilidades académicas a desarrollar",
         "El cuidador considera que sacar tiempo para acompañar al estudiante es una acción efectiva para el aprendizaje",
         "El cuidador considera que sentarse junto con el estudiante a estudiar es una acción efectiva para el aprendizaje",
-        "El cuidador distribuye el acompañamiento académico junto con la madre de acuerdo a su capacidad académica",
+        "El cuidador distribuye el acompañamiento escolar junto con la madre de acuerdo a su capacidad académica",
       ],
       "habilidades socioemocionales": [
         "El cuidador considera que dialogar con el estudiante frente al estudio es una acción efectiva para el aprendizaje",
@@ -553,7 +553,7 @@
         "El cuidador considera necesario un informe rutinario sobre la actualidad académica del estudiante",
         "El cuidador considera que el internet permitirá involucrarse activamente en la educación del estudiante",
         "El cuidador cree que el internet fortalece las rutinas de estudio",
-        "El cuidador le gustaría que se incluyeran actividades para mejorar su acompañamiento académico en el estudiante",
+        "El cuidador le gustaría que se incluyeran actividades para mejorar su acompañamiento escolar en el estudiante",
       ],
     },
     name: "cuidador_7",
@@ -562,15 +562,15 @@
     totalAnswers: 25,
     meaning: {
       "conciencia de roles":
-        "El cuidador considera que el acompañamiento académico es importante para el aprendizaje del estudiante y que el cuidador tiene un rol activo en el mismo.",
+        "El cuidador considera que el acompañamiento escolar es importante para el aprendizaje del estudiante y que el cuidador tiene un rol activo en el mismo.",
       "capacidad académica":
-        "El cuidador considera que el acompañamiento académico puede ayudar al estudiante a mejorar académicamente, pero que su falta de conocimiento o formación académica puede dificultar su participación.",
+        "El cuidador considera que el acompañamiento escolar puede ayudar al estudiante a mejorar académicamente, pero que su falta de conocimiento o formación académica puede dificultar su participación.",
       "compromiso académico":
-        "El cuidador considera que el acompañamiento académico requiere de compromiso y esfuerzo por parte del cuidador y del estudiante.",
+        "El cuidador considera que el acompañamiento escolar requiere de compromiso y esfuerzo por parte del cuidador y del estudiante.",
       "habilidades socioemocionales":
-        "El cuidador considera que el acompañamiento académico debe ser respetuoso y que debe fomentar la comunicación entre el cuidador y el estudiante.",
+        "El cuidador considera que el acompañamiento escolar debe ser respetuoso y que debe fomentar la comunicación entre el cuidador y el estudiante.",
       "recursos educativos":
-        "El cuidador considera que los recursos educativos pueden ser útiles para el acompañamiento académico, pero que deben ser accesibles y de calidad.",
+        "El cuidador considera que los recursos educativos pueden ser útiles para el acompañamiento escolar, pero que deben ser accesibles y de calidad.",
     },
   },
   {
@@ -664,3 +664,5 @@
     },
   },
 ];
+
+export default individualTags;

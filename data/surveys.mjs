@@ -6,13 +6,13 @@ const surveys = [
       actor: "cuidador_1",
       reactive: "1",
       question:
-        "¿Qué opinión tiene sobre la importancia del acompañamiento académico de los padres en la educación de sus hijos?",
+        "¿Qué opinión tiene sobre la importancia del acompañamiento escolar de los padres en la educación de sus hijos?",
       tags: {
         "conciencia de roles": [
-          "El cuidador considera que el acompañamiento académico permite que el estudiante aprenda más y mejor",
+          "El cuidador considera que el acompañamiento escolar permite que el estudiante aprenda más y mejor",
         ],
         "capacidad académica": [
-          "El cuidador espera que el acompañamiento académico le permita al estudiante mejorar académicamente",
+          "El cuidador espera que el acompañamiento escolar le permita al estudiante mejorar académicamente",
         ],
       },
     },
@@ -83,8 +83,8 @@ const surveys = [
         "¿Qué aspectos del proyecto de intervención le resultaron más interesantes o atractivos?",
       tags: {
         "capacidad académica": [
-          "El cuidador espera que el acompañamiento académico le permita al estudiante salir adelante",
-          "El cuidador espera que el acompañamiento académico le permita al estudiante mejorar académicamente",
+          "El cuidador espera que el acompañamiento escolar le permita al estudiante salir adelante",
+          "El cuidador espera que el acompañamiento escolar le permita al estudiante mejorar académicamente",
         ],
       },
     },
@@ -123,8 +123,8 @@ const surveys = [
         "¿Qué actividades específicas le gustaría que se incluyeran en este proyecto de intervención?",
       tags: {
         "recursos educativos": [
-          "El cuidador cree que un compartir permitiría el acompañamiento académico que realiza con el estudiante",
-          "El cuidador cree que los juegos y nuevas dinámicas les permitirían el acompañamiento académico que realiza con el estudiante",
+          "El cuidador cree que un compartir permitiría el acompañamiento escolar que realiza con el estudiante",
+          "El cuidador cree que los juegos y nuevas dinámicas les permitirían el acompañamiento escolar que realiza con el estudiante",
         ],
         "conciencia de roles": [
           "El cuidador considera que actividades de autosuperación para el cuidador permitiria acompañar académicamente al estudiante",
@@ -156,7 +156,7 @@ const surveys = [
           "El cuidador considera que la intervención permite que el estudiante tenga mejores calificaciones",
         ],
         "conciencia de roles": [
-          "El cuidador considera que el acompañamiento académico permite que el estudiante aprenda más y mejor",
+          "El cuidador considera que el acompañamiento escolar permite que el estudiante aprenda más y mejor",
         ],
       },
     },
@@ -236,13 +236,13 @@ const surveys = [
       actor: "cuidador_2",
       reactive: "1",
       question:
-        "¿Qué opinión tiene sobre la importancia del acompañamiento académico de los padres en la educación de sus hijos?",
+        "¿Qué opinión tiene sobre la importancia del acompañamiento escolar de los padres en la educación de sus hijos?",
       tags: {
         "habilidades socioemocionales": [
-          "El cuidador considera que el acompañamiento académico permite que el estudiante se sienta acompañado",
+          "El cuidador considera que el acompañamiento escolar permite que el estudiante se sienta acompañado",
         ],
         "conciencia de roles": [
-          "El cuidador considera que el acompañamiento académico permite que el estudiante aprenda más y mejor",
+          "El cuidador considera que el acompañamiento escolar permite que el estudiante aprenda más y mejor",
         ],
       },
     },
@@ -314,10 +314,10 @@ const surveys = [
         "¿Qué expectativas tiene sobre los resultados que se puedan lograr con este proyecto?",
       tags: {
         "capacidad académica": [
-          "El cuidador espera que el acompañamiento académico le permita al estudiante mejorar académicamente",
+          "El cuidador espera que el acompañamiento escolar le permita al estudiante mejorar académicamente",
         ],
         "compromiso académico": [
-          "El cuidador espera estar más pendiente del acompañamiento académico en el estudiante",
+          "El cuidador espera estar más pendiente del acompañamiento escolar en el estudiante",
         ],
       },
     },
@@ -343,7 +343,7 @@ const surveys = [
         "¿Qué actividades específicas le gustaría que se incluyeran en este proyecto de intervención?",
       tags: {
         "recursos educativos": [
-          "El cuidador cree que los juegos y nuevas dinámicas les permitirían el acompañamiento académico que realiza con el estudiante",
+          "El cuidador cree que los juegos y nuevas dinámicas les permitirían el acompañamiento escolar que realiza con el estudiante",
         ],
       },
     },
@@ -369,7 +369,7 @@ const surveys = [
         "¿Cómo se imagina su rol como padre/madre dentro de este proyecto de intervención?",
       tags: {
         "conciencia de roles": [
-          "El cuidador se percibe con un rol de acompañamiento académico constante y consciente",
+          "El cuidador se percibe con un rol de acompañamiento escolar constante y consciente",
         ],
       },
     },
@@ -385,7 +385,7 @@ const surveys = [
           "El cuidador considera el estudiante tendrá más deseo, motivación o interés de estudiar gracias al proyecto de intervención",
         ],
         "conciencia de roles": [
-          "El cuidador considera que el estudiante le va a solicitar más acompañamiento académico",
+          "El cuidador considera que el estudiante le va a solicitar más acompañamiento escolar",
         ],
       },
     },
@@ -466,10 +466,10 @@ const surveys = [
       actor: "cuidador_3",
       reactive: "1",
       question:
-        "¿Qué opinión tiene sobre la importancia del acompañamiento académico de los padres en la educación de sus hijos?",
+        "¿Qué opinión tiene sobre la importancia del acompañamiento escolar de los padres en la educación de sus hijos?",
       tags: {
         "capacidad académica": [
-          "El cuidador espera que el acompañamiento académico le permita al estudiante mejorar académicamente",
+          "El cuidador espera que el acompañamiento escolar le permita al estudiante mejorar académicamente",
         ],
       },
     },
@@ -522,7 +522,7 @@ const surveys = [
       tags: {
         "conciencia de roles": [
           "El cuidador considera que estaba dormido frente a las necesidades académicas del estudiante",
-          "El cuidador reconoce la importancia del acompañamiento académico",
+          "El cuidador reconoce la importancia del acompañamiento escolar",
         ],
       },
     },
@@ -535,9 +535,9 @@ const surveys = [
         "¿Qué expectativas tiene sobre los resultados que se puedan lograr con este proyecto?",
       tags: {
         "habilidades socioemocionales": [
-          "El cuidador espera que el acompañamiento académico desarrolle la pérdida del miedo en el estudiante",
-          "El cuidador espera que el acompañamiento académico potencie la interacción social por parte del estudiante",
-          "El cuidador espera que el acompañamiento académico genere sensación de apoyo en el estudiante",
+          "El cuidador espera que el acompañamiento escolar desarrolle la pérdida del miedo en el estudiante",
+          "El cuidador espera que el acompañamiento escolar potencie la interacción social por parte del estudiante",
+          "El cuidador espera que el acompañamiento escolar genere sensación de apoyo en el estudiante",
         ],
       },
     },
@@ -564,7 +564,7 @@ const surveys = [
         "¿Qué actividades específicas le gustaría que se incluyeran en este proyecto de intervención?",
       tags: {
         "recursos educativos": [
-          "El cuidador cree que los juegos y nuevas dinámicas les permitirían el acompañamiento académico que realiza con el estudiante",
+          "El cuidador cree que los juegos y nuevas dinámicas les permitirían el acompañamiento escolar que realiza con el estudiante",
         ],
         "compromiso académico": [
           "El cuidador considera que actividades de autosuperación para el cuidador permitiria acompañar académicamente al estudiante",
@@ -676,10 +676,10 @@ const surveys = [
       actor: "cuidador_4",
       reactive: "1",
       question:
-        "¿Qué opinión tiene sobre la importancia del acompañamiento académico de los padres en la educación de sus hijos?",
+        "¿Qué opinión tiene sobre la importancia del acompañamiento escolar de los padres en la educación de sus hijos?",
       tags: {
         "conciencia de roles": [
-          "El cuidador considera que el acompañamiento académico permite que el cuidador y el estudiante aprendan",
+          "El cuidador considera que el acompañamiento escolar permite que el cuidador y el estudiante aprendan",
         ],
       },
     },
@@ -692,7 +692,7 @@ const surveys = [
         "¿Ha mejorado el nivel de participación del padre y de la madre en la educación de su hijo/a?",
       tags: {
         "conciencia de roles": [
-          "El cuidador considera que el acompañamiento académico permite que el cuidador y el estudiante aprendan",
+          "El cuidador considera que el acompañamiento escolar permite que el cuidador y el estudiante aprendan",
         ],
       },
     },
@@ -736,7 +736,7 @@ const surveys = [
         "¿Cree que este proyecto de intervención le ayudó a mejorar su participación en la educación de su hijo/a?",
       tags: {
         "conciencia de roles": [
-          "El cuidador considera que el acompañamiento académico le permite al cuidador conocer al niño y a la docente",
+          "El cuidador considera que el acompañamiento escolar le permite al cuidador conocer al niño y a la docente",
         ],
       },
     },
@@ -749,10 +749,10 @@ const surveys = [
         "¿Qué aspectos del proyecto de intervención le resultaron más interesantes o atractivos?",
       tags: {
         "capacidad académica": [
-          "El cuidador espera que el acompañamiento académico sea algo permanente en la educación del estudiante",
+          "El cuidador espera que el acompañamiento escolar sea algo permanente en la educación del estudiante",
         ],
         "conciencia de roles": [
-          "El cuidador espera que el acompañamiento académico fomente un aprendizaje constante entre el estudiante y el cuidador",
+          "El cuidador espera que el acompañamiento escolar fomente un aprendizaje constante entre el estudiante y el cuidador",
         ],
       },
     },
@@ -765,9 +765,9 @@ const surveys = [
         "¿Qué expectativas tiene sobre los resultados que se puedan lograr con este proyecto?",
       tags: {
         "habilidades socioemocionales": [
-          "El cuidador espera que el acompañamiento académico desarrolle la pérdida del miedo en el estudiante",
-          "El cuidador espera que el acompañamiento académico potencie la interacción social por parte del estudiante",
-          "El cuidador espera que el acompañamiento académico genere sensación de apoyo en el estudiante",
+          "El cuidador espera que el acompañamiento escolar desarrolle la pérdida del miedo en el estudiante",
+          "El cuidador espera que el acompañamiento escolar potencie la interacción social por parte del estudiante",
+          "El cuidador espera que el acompañamiento escolar genere sensación de apoyo en el estudiante",
         ],
       },
     },
@@ -807,7 +807,7 @@ const surveys = [
         "¿Cómo se imagina su rol como padre/madre dentro de este proyecto de intervención?",
       tags: {
         "conciencia de roles": [
-          "El cuidador se percibe con un rol de acompañamiento académico constante y consciente",
+          "El cuidador se percibe con un rol de acompañamiento escolar constante y consciente",
           "El cuidador considera que su rol le permite al estudiante sentirse apoyados y con confianza",
         ],
       },
@@ -886,13 +886,13 @@ const surveys = [
       actor: "cuidador_5",
       reactive: "1",
       question:
-        "¿Qué opinión tiene sobre la importancia del acompañamiento académico de los padres en la educación de sus hijos?",
+        "¿Qué opinión tiene sobre la importancia del acompañamiento escolar de los padres en la educación de sus hijos?",
       tags: {
         "conciencia de roles": [
-          "El cuidador considera que el acompañamiento académico permite saber cómo los docentes tratan al estudiante",
+          "El cuidador considera que el acompañamiento escolar permite saber cómo los docentes tratan al estudiante",
         ],
         "capacidad académica": [
-          "El cuidador espera que el acompañamiento académico le permita al estudiante mejorar académicamente",
+          "El cuidador espera que el acompañamiento escolar le permita al estudiante mejorar académicamente",
         ],
       },
     },
@@ -905,7 +905,7 @@ const surveys = [
         "¿Ha mejorado el nivel de participación del padre y de la madre en la educación de su hijo/a?",
       tags: {
         "conciencia de roles": [
-          "El cuidador considera que el acompañamiento académico permite que el cuidador y el estudiante aprendan",
+          "El cuidador considera que el acompañamiento escolar permite que el cuidador y el estudiante aprendan",
         ],
       },
     },
@@ -944,7 +944,7 @@ const surveys = [
         "¿Cree que este proyecto de intervención le ayudó a mejorar su participación en la educación de su hijo/a?",
       tags: {
         "conciencia de roles": [
-          "El cuidador reconoce los resultados del acompañamiento académico en el estudiante",
+          "El cuidador reconoce los resultados del acompañamiento escolar en el estudiante",
         ],
       },
     },
@@ -970,7 +970,7 @@ const surveys = [
         "¿Qué actividades específicas le gustaría que se incluyeran en este proyecto de intervención?",
       tags: {
         "recursos educativos": [
-          "El cuidador cree que los juegos y nuevas dinámicas les permitirían el acompañamiento académico que realiza con el estudiante",
+          "El cuidador cree que los juegos y nuevas dinámicas les permitirían el acompañamiento escolar que realiza con el estudiante",
         ],
       },
     },
@@ -1073,10 +1073,10 @@ const surveys = [
       actor: "cuidador_6",
       reactive: "1",
       question:
-        "¿Qué opinión tiene sobre la importancia del acompañamiento académico de los padres en la educación de sus hijos?",
+        "¿Qué opinión tiene sobre la importancia del acompañamiento escolar de los padres en la educación de sus hijos?",
       tags: {
         "conciencia de roles": [
-          "El cuidador considera que el acompañamiento académico permite que el estudiante aprenda más y mejor",
+          "El cuidador considera que el acompañamiento escolar permite que el estudiante aprenda más y mejor",
         ],
       },
     },
@@ -1115,7 +1115,7 @@ const surveys = [
         "¿Cree que este proyecto de intervención le ayudó a mejorar su participación en la educación de su hijo/a?",
       tags: {
         "habilidades socioemocionales": [
-          "El cuidador aprendió cómo se debe tratar al estudiante cuando está realizando el acompañamiento académico",
+          "El cuidador aprendió cómo se debe tratar al estudiante cuando está realizando el acompañamiento escolar",
         ],
       },
     },
@@ -1128,7 +1128,7 @@ const surveys = [
         "¿Qué expectativas tiene sobre los resultados que se puedan lograr con este proyecto?",
       tags: {
         "capacidad académica": [
-          "El cuidador espera que el acompañamiento académico sea algo permanente en la educación del estudiante",
+          "El cuidador espera que el acompañamiento escolar sea algo permanente en la educación del estudiante",
         ],
       },
     },
@@ -1193,7 +1193,7 @@ const surveys = [
         "¿Cómo cree que el proyecto de intervención puede contribuir al éxito académico de su hijo/a?",
       tags: {
         "compromiso académico": [
-          "El cuidador considera que aumentará el acompañamiento académico hacia el estudiante",
+          "El cuidador considera que aumentará el acompañamiento escolar hacia el estudiante",
         ],
       },
     },
@@ -1270,13 +1270,13 @@ const surveys = [
       actor: "cuidador_7",
       reactive: "1",
       question:
-        "¿Qué opinión tiene sobre la importancia del acompañamiento académico de los padres en la educación de sus hijos?",
+        "¿Qué opinión tiene sobre la importancia del acompañamiento escolar de los padres en la educación de sus hijos?",
       tags: {
         "conciencia de roles": [
-          "El cuidador considera que el acompañamiento académico permite que el estudiante aprenda más y mejor",
+          "El cuidador considera que el acompañamiento escolar permite que el estudiante aprenda más y mejor",
         ],
         "capacidad académica": [
-          "El cuidador espera que el acompañamiento académico le permita al estudiante mejorar académicamente",
+          "El cuidador espera que el acompañamiento escolar le permita al estudiante mejorar académicamente",
         ],
       },
     },
@@ -1292,7 +1292,7 @@ const surveys = [
           "El cuidador relaciona el apoyo académico con el aprendizaje del estudiante",
         ],
         "compromiso académico": [
-          "El cuidador distribuye el acompañamiento académico junto con la madre de acuerdo a su capacidad académica",
+          "El cuidador distribuye el acompañamiento escolar junto con la madre de acuerdo a su capacidad académica",
         ],
       },
     },
@@ -1352,7 +1352,7 @@ const surveys = [
         "¿Qué expectativas tiene sobre los resultados que se puedan lograr con este proyecto?",
       tags: {
         "conciencia de roles": [
-          "El cuidador espera que se genere conciencia y conocimiento por parte de los demás cuidadores sobre el acompañamiento académico",
+          "El cuidador espera que se genere conciencia y conocimiento por parte de los demás cuidadores sobre el acompañamiento escolar",
         ],
       },
     },
@@ -1378,7 +1378,7 @@ const surveys = [
         "¿Qué actividades específicas le gustaría que se incluyeran en este proyecto de intervención?",
       tags: {
         "recursos educativos": [
-          "El cuidador le gustaría que se incluyeran actividades para mejorar su acompañamiento académico en el estudiante",
+          "El cuidador le gustaría que se incluyeran actividades para mejorar su acompañamiento escolar en el estudiante",
         ],
       },
     },
@@ -1404,7 +1404,7 @@ const surveys = [
         "¿Cómo se imagina su rol como padre/madre dentro de este proyecto de intervención?",
       tags: {
         "conciencia de roles": [
-          "El cuidador se percibe con un rol de acompañamiento académico constante y consciente",
+          "El cuidador se percibe con un rol de acompañamiento escolar constante y consciente",
         ],
       },
     },
